@@ -1,8 +1,11 @@
 Project Proposal Submission
 
 Group Number – 3
+
 Group Name – Tech Up 
+
 Group Members:
+
 1. Basma Aldamegh
 2. Eithar Alahmadi
 3. Mona Alomari
@@ -39,4 +42,5 @@ Our Suggested Ideas Related to The Blockchain:
 1. Build Decentralized Exchange Using Hydro Protocol SDK. 
 2. Medical Record Management with Blockchain (Medical history of all patients).
 3. Hire Employees with a Smart Contract (Can’t be deleted or changed).
+
 Note:  These proposals we would like to work on in the future, but due to the lack of time to deliver the project, we could not choose them. 
